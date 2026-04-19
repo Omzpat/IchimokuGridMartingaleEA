@@ -1,2 +1,2 @@
 # IchimokuGridMartingaleEA
-MT5 Expert Advisor using Ichimoku trend detection with grid and martingale position management.
+MT5 Expert Advisor using Ichimoku trend detection with grid and martingale position management. XAUUSD 15MIN
